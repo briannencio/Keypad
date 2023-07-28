@@ -23,7 +23,7 @@ byte G = 3;
 byte R = 2;
 
 char password[8];
-char correctPassword[] = "123456#";
+char correctPassword[] = "748567#";
 byte index = 0;
 
 void setup() {
